@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeNowa
-- 👀 I’m interested in ... Python Web Development 
+- 👀 I’m interested in ... Python 
 - 🌱 I’m currently learning ... C++ and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jn0325764@student.luzerne.edu
